@@ -19,5 +19,12 @@
     "moves": 31,
     "boardSize": "small",
     "date": "2025-04-07T04:13:36.838Z"
+  },
+  {
+    "name": "helloworld",
+    "time": 106,
+    "moves": 89,
+    "boardSize": "medium",
+    "date": "2025-04-08T19:21:29.658Z"
   }
 ]

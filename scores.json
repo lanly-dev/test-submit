@@ -26,5 +26,12 @@
     "moves": 89,
     "boardSize": "medium",
     "date": "2025-04-08T19:21:29.658Z"
+  },
+  {
+    "name": "yeah",
+    "time": 415,
+    "moves": 161,
+    "boardSize": "large",
+    "date": "2025-04-08T19:33:07.039Z"
   }
 ]

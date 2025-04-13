@@ -33,5 +33,12 @@
     "moves": 161,
     "boardSize": "large",
     "date": "2025-04-08T19:33:07.039Z"
+  },
+  {
+    "name": "test ok",
+    "time": 15,
+    "moves": 15,
+    "boardSize": "small",
+    "date": "2025-04-13T04:03:08.734Z"
   }
 ]

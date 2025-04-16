@@ -40,5 +40,12 @@
     "moves": 15,
     "boardSize": "small",
     "date": "2025-04-13T04:03:08.734Z"
+  },
+  {
+    "name": "test test",
+    "time": 28,
+    "moves": 38,
+    "boardSize": "small",
+    "date": "2025-04-16T02:44:47.151Z"
   }
 ]

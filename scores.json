@@ -54,5 +54,12 @@
     "moves": 22,
     "boardSize": "small",
     "date": "2025-04-16T02:50:19.649Z"
+  },
+  {
+    "name": "bar",
+    "time": 17,
+    "moves": 17,
+    "boardSize": "small",
+    "date": "2025-04-16T02:57:31.170Z"
   }
 ]

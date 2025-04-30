@@ -68,5 +68,12 @@
     "moves": 29,
     "boardSize": "small",
     "date": "2025-04-16T06:18:57.729Z"
+  },
+  {
+    "name": "429",
+    "time": 27,
+    "moves": 26,
+    "boardSize": "small",
+    "date": "2025-04-30T06:22:17.013Z"
   }
 ]

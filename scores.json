@@ -75,5 +75,12 @@
     "moves": 26,
     "boardSize": "small",
     "date": "2025-04-30T06:22:17.013Z"
+  },
+  {
+    "name": "mobile",
+    "time": 18,
+    "moves": 9,
+    "boardSize": "small",
+    "date": "2025-05-01T18:50:55.129Z"
   }
 ]

@@ -123,5 +123,14 @@
     "platform": "Windows",
     "device": "desktop",
     "date": "2025-06-11T18:35:39.252Z"
+  },
+  {
+    "name": "new",
+    "time": 19,
+    "moves": 14,
+    "boardSize": "small",
+    "platform": "Windows",
+    "device": "desktop",
+    "date": "2025-06-11T18:36:55.700Z"
   }
 ]
